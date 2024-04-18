@@ -1,0 +1,30 @@
+[ 2024-04-18 23:47:00,805 ] 96 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.103:5000
+[ 2024-04-18 23:47:00,805 ] 96 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-04-18 23:47:08,952 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:08] "GET / HTTP/1.1" 200 -
+[ 2024-04-18 23:47:09,084 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/flight.jpg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,084 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,086 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/download%20(1).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,090 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/download%20(2).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,090 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/download.jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,095 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/images%20(1).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,097 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/images%20(2).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,098 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/images%20(3).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,100 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/images%20(4).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,102 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/images.jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,104 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[36mGET /static/images/xyz.jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:09,915 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-04-18 23:47:38,992 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:38] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-18 23:47:39,012 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,025 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/flight.jpg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,033 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/download%20(1).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,034 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/download.jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,040 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/download%20(2).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,053 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/xyz.jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,057 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/images%20(1).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,060 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/images%20(3).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,062 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/images%20(4).jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,065 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/images.jpeg HTTP/1.1[0m" 304 -
+[ 2024-04-18 23:47:39,070 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Apr/2024 23:47:39] "[36mGET /static/images/images%20(2).jpeg HTTP/1.1[0m" 304 -
